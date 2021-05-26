@@ -1,0 +1,13 @@
+.menu {
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    text-align: center;
+}
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 150px;
+}
